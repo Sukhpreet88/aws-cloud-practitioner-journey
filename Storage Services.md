@@ -9,6 +9,8 @@
 
 
 
+
+
 ## Amazon S3 Storage Classes
 
 | Class   | Description                     |
