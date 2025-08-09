@@ -13,6 +13,8 @@
 
 ## Amazon S3 Storage Classes
 
+Amazon S3 has nine different storage classes for different storage needs.
+
 | Class   | Description                     |
 |---------|---------------------------------|
 | S3 Standard  | General-purpose, High availability (11 9s), Low latency |
