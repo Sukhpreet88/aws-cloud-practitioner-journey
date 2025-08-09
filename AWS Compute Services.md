@@ -1,4 +1,4 @@
-# Summary of AWS compute services
+## Summary of AWS compute services
 
 | Service | Description                     |
 |---------|---------------------------------|
